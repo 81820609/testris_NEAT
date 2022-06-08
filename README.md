@@ -39,6 +39,11 @@ In this project, i simplify the hand-designed feature with just five input:
 4. the max height
 5. the min height
 
+## How to run
+
+Run main.py to see the fully trainning NEAT playing the tetris.
+
+If you want to train by yourself, hashtag the 315 line and unhashtag the 319 line.
 
 ## The skill used in this project
 
