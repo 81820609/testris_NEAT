@@ -7,13 +7,12 @@ This concept is inspried by the reference ['This Neural Network has MASTERED TET
 Reference papers:
 [Comparing Direct and Indirect Encodings Using Both Raw
 and Hand-Designed Features in Tetris](https://dl.acm.org/doi/10.1145/3071178.3071195)
-[paper2]
+[Evolving Indirectly Encoded Convolutional Neural Networks
+to Play Tetris With Low-Level Features
+](https://dl.acm.org/doi/abs/10.1145/3205455.3205459)
 
 
-
-
-
-https://user-images.githubusercontent.com/70815842/167260045-bd46aa85-63e1-4f1d-bbcf-499490d2bd90.mp4
+![Hnet-image (3)](https://user-images.githubusercontent.com/70815842/172543658-dc4c3cc0-32f9-499b-96c5-2001cadd14d8.gif)
 
 
 
