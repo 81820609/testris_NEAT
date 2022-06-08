@@ -1,6 +1,6 @@
 # Testris_NEAT
 
-Use NeuroEvolution of Augmenting Topologies(NEAT) to create a neural network playing the Tetris
+Use NeuroEvolution of Augmenting Topologies(NEAT) to create a neural network to play the Tetris
 
 This concept is inspried by the reference ['This Neural Network has MASTERED TETRIS']([https://www.youtube.com/watch?v=uoR4ilCWwKA](https://www.youtube.com/watch?v=1yXBNKubb2o)) on youtube.
 
