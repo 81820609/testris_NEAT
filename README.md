@@ -8,6 +8,7 @@ Reference papers:
 
 [Comparing Direct and Indirect Encodings Using Both Raw
 and Hand-Designed Features in Tetris](https://dl.acm.org/doi/10.1145/3071178.3071195)
+
 [Evolving Indirectly Encoded Convolutional Neural Networks
 to Play Tetris With Low-Level Features](https://dl.acm.org/doi/abs/10.1145/3205455.3205459)
 
