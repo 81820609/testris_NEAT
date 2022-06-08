@@ -24,7 +24,7 @@ The decision ai making in Tetris is after-state decision, which means that ai wi
 
 According to papers, the input information to neural work is prefer hand-designed feature than raw screen input. The preformance of former input would much better than the other one.
 
-Also, many papper recommend that the hand=designed features are :
+Also, many pappers recommen that the hand=designed features are :
 
 1. the height of columns
 2. the hole of columns
