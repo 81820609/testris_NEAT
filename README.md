@@ -20,9 +20,9 @@ AI playing demo
 
 ## How do AI play the Tetris
 
-The decision of ai make in Tetris is after-state decision, which means that ai will compare the score of every position the current block put in and choose the best one.
+The decision ai making in Tetris is after-state decision, which means that ai will compare the score of every position the current block put in and choose the best one.
 
-According to paper, the input information to neural work is prefer hand-designed feature than raw screen input. The preformance of former input would much better than the other one.
+According to papers, the input information to neural work is prefer hand-designed feature than raw screen input. The preformance of former input would much better than the other one.
 
 Also, many papper recommend that the hand=designed features are :
 
