@@ -40,4 +40,11 @@ In this project, i simplify the hand-designed feature with just five input:
 5. the min height
 
 
+## The skill use in this project
+
+This project is only use python to create.
+
+the packages use:
+1.pygame
+2.neat
 
