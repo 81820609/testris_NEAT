@@ -18,40 +18,26 @@ AI playing demo
 
 
 
-## How to run
+## How do AI play the Tetris
 
-If you have python, you can just open 'game.py' to play. If you don't have python, open the 'game.exe'.
+The decision of ai make in Tetris is after-state decision, which means that ai will compare the score of every position the current block put in and choose the best one.
 
-If you want to change music, put the music file into the folder-'music' and open the 'game.py' with editor then change the 'file_name' in line13.
+According to paper, the input information to neural work is prefer hand-designed feature than raw screen input. The preformance of former input would much better than the other one.
 
-## What differeces
+Also, many papper recommend that the hand=designed features are :
 
-In order to more near the modern Tetris games, I make some changes in the game.
+1. the height of columns
+2. the hole of columns
+3. the height difference between columns
+4. max height and min height
 
-1. Change the fall of blocks to one set with sevent different shapes.
+In this project, i simplify the hand-designed feature with just five input:
 
-2. Add the predicted fallen location.
+1. the whole holes
+2. the whole height
+3. the whole difference
+4. the max height
+5. the min height
 
-3. The next shapes is up to five.
 
-4. Add a new ability, 'Hold'.
 
-5. Add the music. 'A'
-
-## How to play
-
-Press 'down', 'left', 'right, to move the block.
-
-Press 'space' to immediately make the block to fall down.
-
-Press 'up' and 'z' to make block rotate(clockwise, counterclockwise)
-
-Press 'c' to hold the current block.
-
-## Next updates
-
-1. Add the rule Super Rotation System 'SRS' to the game.
-
-2. Make the AI(neural network) to play the Tettris.
-
-3. Add the human vs human, human vs computer and computer vs computer mode.
