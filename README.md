@@ -5,6 +5,7 @@ Use NeuroEvolution of Augmenting Topologies(NEAT) to create a neural network pla
 This concept is inspried by the reference ['This Neural Network has MASTERED TETRIS']([https://www.youtube.com/watch?v=uoR4ilCWwKA](https://www.youtube.com/watch?v=1yXBNKubb2o)) on youtube.
 
 Reference papers:
+
 [Comparing Direct and Indirect Encodings Using Both Raw
 and Hand-Designed Features in Tetris](https://dl.acm.org/doi/10.1145/3071178.3071195)
 [Evolving Indirectly Encoded Convolutional Neural Networks
