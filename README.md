@@ -40,7 +40,7 @@ In this project, i simplify the hand-designed feature with just five input:
 5. the min height
 
 
-## The skill use in this project
+## The skill used in this project
 
 This project is only use python to create.
 
